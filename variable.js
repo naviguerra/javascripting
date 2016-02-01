@@ -8,4 +8,5 @@
   javascripting verify variables.js
 */
 
-
+var example='some strong';
+console.log(example);
