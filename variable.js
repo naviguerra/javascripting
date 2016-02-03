@@ -8,5 +8,5 @@
   javascripting verify variables.js
 */
 
-var example='some string';
+var example='hello';
 console.log(example);
